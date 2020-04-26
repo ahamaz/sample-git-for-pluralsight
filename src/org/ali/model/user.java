@@ -11,6 +11,11 @@ public class user {
 		this.name = name;
 	}
 
+	@Override
+	public String toString() {
+		return "user [name=" + name + "]";
+	}
+
 	
 	
 }
