@@ -3,6 +3,14 @@ package org.ali.model;
 public class user {
 	private String name;
 	private int agae;
+	
+	
+
+	public user(String name, int agae) {
+		super();
+		this.name = name;
+		this.agae = agae;
+	}
 
 	public String getName() {
 		return name;
