@@ -20,5 +20,10 @@ public class user {
 		this.agae = agae;
 	}
 
+	@Override
+	public String toString() {
+		return "user [name=" + name + ", agae=" + agae + "]";
+	}
+
 
 }
