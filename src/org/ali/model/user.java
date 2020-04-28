@@ -2,6 +2,7 @@ package org.ali.model;
 
 public class user {
 	private String name;
+	private int agae;
 
 	public String getName() {
 		return name;
@@ -11,6 +12,5 @@ public class user {
 		this.name = name;
 	}
 
-	
-	
+
 }
