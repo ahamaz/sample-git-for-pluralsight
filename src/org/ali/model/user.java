@@ -12,5 +12,13 @@ public class user {
 		this.name = name;
 	}
 
+	public int getAgae() {
+		return agae;
+	}
+
+	public void setAgae(int agae) {
+		this.agae = agae;
+	}
+
 
 }
