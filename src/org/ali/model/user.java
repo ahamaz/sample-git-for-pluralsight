@@ -5,7 +5,6 @@ public class user {
 	private int agae;
 	
 	
-
 	public user() {
 		super();
 	}
