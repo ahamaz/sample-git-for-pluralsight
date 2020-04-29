@@ -6,6 +6,10 @@ public class user {
 	
 	
 
+	public user() {
+		super();
+	}
+
 	public user(String name, int agae) {
 		super();
 		this.name = name;
